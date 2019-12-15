@@ -27,3 +27,27 @@
 |当用户素颜合照，天气、光线不好。| 用户想要拍出来的照片好看。 | 重 要 |美颜滤镜、图像风格转换|[百度AI 美颜滤镜API](https://ai.baidu.com/tech/face/BeautySDK) 、[百度AI 图像风格转换API](https://ai.baidu.com/tech/imagesearch/similar)| 
 |当用户拍照或合照时时表情无趣单一|想要趣味独特的贴图表情 。 |次重要|表情贴纸 | [Face++贴纸SDK](https://www.faceplusplus.com.cn/sdk/paster/)|
 | 在朋友社区里对好友发出的合照或是对其个人的留言、评论。 |毕业后想要再回顾好友的印象、故事。   | 次重要 |评论观点抽取| [百度AI 评论观点抽取](https://ai.baidu.com/tech/nlp_apply/comment_tag)
+
+# 二、原型设计
+## 交互及界面设计：
+- 首页：主要的两个交互功能，拍照与社区。
+![旧拾光 首页.png](https://upload-images.jianshu.io/upload_images/9509773-7c8830e3318126bc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+- 拍照页中的贴纸功能。提供用户趣味独特的贴图表情。
+![旧拾光 拍照贴纸页.png](https://upload-images.jianshu.io/upload_images/9509773-d378ea3b00f74502.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+- 拍照页中的美颜功能。用户可自定义美颜。
+![旧拾光 美颜页.png](https://upload-images.jianshu.io/upload_images/9509773-6431db285e6aa7a9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+- 拍照页中的滤镜功能，用户可切换不同场景的滤镜。
+
+![旧拾光 滤镜页.png](https://upload-images.jianshu.io/upload_images/9509773-9af7d81f6c89477c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+- 社区功能，可留言，回看共同相册，叙旧聊天。
+![旧拾光 社区功能.png](https://upload-images.jianshu.io/upload_images/9509773-a03c20a1896d3735.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+## 信息设计：
+## 原型文档：
+# 三、API 产品使用关键AI或机器学习之API的输出入展示
+## 使用水平：
+## 使用比较分析：
+## 使用后风险报告：
+
