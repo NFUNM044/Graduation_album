@@ -47,7 +47,9 @@
 
 
 ## 信息设计：
+- 产品结构图
 
+![旧拾光APP 产品结构.png](https://upload-images.jianshu.io/upload_images/9509773-fdbecbd046707261.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 
