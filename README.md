@@ -47,7 +47,18 @@
 
 
 ## 信息设计：
+
+
+
+
 ## 原型文档：
+- ## [旧拾光APP可交互原型](https://nfunm044.github.io/prototype_download_album/#g=1&p=%E9%A6%96%E9%A1%B5)  ← 可点击查看
+
+- ## [原型文件，供下载](https://github.com/NFUNM044/prototype_download_album)  ← 可点击下载
+
+
+
+
 # 三、API 产品使用关键AI或机器学习之API的输出入展示
 ## 使用水平：
 ## 使用比较分析：
