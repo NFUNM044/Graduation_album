@@ -30,8 +30,10 @@
 
 # 二、原型设计
 ## 交互及界面设计：
-- 首页：主要的两个交互功能，拍照与社区。
+- 首页：主要的两个交互功能，拍照与社区。<br>
+
 ![旧拾光 首页.png](https://upload-images.jianshu.io/upload_images/9509773-7c8830e3318126bc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 - 拍照页中的贴纸功能。提供用户趣味独特的贴图表情。
 ![旧拾光 拍照贴纸页.png](https://upload-images.jianshu.io/upload_images/9509773-d378ea3b00f74502.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 - 拍照页中的美颜功能。用户可自定义美颜。
