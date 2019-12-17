@@ -55,13 +55,6 @@
 
 
 
-
-
-
-
-
-
-
 ## 原型文档：
 - ## [旧拾光APP可交互原型](https://nfunm044.github.io/prototype_download_album/#g=1&p=%E9%A6%96%E9%A1%B5)  ← 可点击查看
 
@@ -72,6 +65,19 @@
 
 # 三、API 产品使用关键AI或机器学习之API的输出入展示
 ## 使用水平：
-## 使用比较分析：
+|API| 费用  |成熟度|性价比|选择|
+|:-:|:-:|:-:|:-:|:-:|
+| 百度图像风格转换API | 个人享受共3000次免费调用 |成熟|高|√|
+| 百度评论观点抽取API | 个人无限制调用量|成熟|高|√|
+| Face++贴纸SDK |需要授权联系商务洽谈价钱  |成熟|高|√|
+|Face++ 滤镜API|0.01元/次|成熟|高|√|
+
+![旧拾光代码展示.png](https://upload-images.jianshu.io/upload_images/9509773-86f5417a514747d4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![旧拾光代码展示结果.png](https://upload-images.jianshu.io/upload_images/9509773-d67e48fd426b7326.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+
 ## 使用后风险报告：
+- 所使用的API类别：人脸识别、图像技术、自然语言处理
+- 未来发展性：随着移动互联网技术的发展和数字化时代的来临，人们对信息的载体需求发生了巨大变化。每年都会有毕业生，并且里面有聊天、回看相册功能，使用户联系在一起，增大了用户的使用时间。
 
