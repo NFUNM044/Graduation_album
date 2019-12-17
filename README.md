@@ -24,7 +24,7 @@
 ## 需求列表与人工智能API加值：
 | 使用场景 | 用户需求  |重要程度 |对应功能  | 使用的API  | 
 |:-:|:-:|:-: |:-:|:-:|
-|当用户素颜合照，天气、光线不好。| 用户想要拍出来的照片好看。 | 重 要 |美颜滤镜、图像风格转换|[百度AI 美颜滤镜API](https://ai.baidu.com/tech/face/BeautySDK) 、[百度AI 图像风格转换API](https://ai.baidu.com/tech/imagesearch/similar)| 
+|当用户素颜合照，天气、光线不好。| 用户想要拍出来的照片好看。 | 重 要 |美颜滤镜、图像风格转换|[Face++人脸美颜API](https://www.faceplusplus.com.cn/face-beautify/)  、[百度AI 图像风格转换API](https://ai.baidu.com/tech/imagesearch/similar)| 
 |当用户拍照或合照时时表情无趣单一|想要趣味独特的贴图表情 。 |次重要|表情贴纸 | [Face++贴纸SDK](https://www.faceplusplus.com.cn/sdk/paster/)|
 | 在朋友社区里对好友发出的合照或是对其个人的留言、评论。 |毕业后想要再回顾好友的印象、故事。   | 次重要 |评论观点抽取| [百度AI 评论观点抽取](https://ai.baidu.com/tech/nlp_apply/comment_tag)
 
@@ -50,6 +50,15 @@
 - 产品结构图
 
 ![旧拾光APP 产品结构.png](https://upload-images.jianshu.io/upload_images/9509773-fdbecbd046707261.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+- App运作流程图：
+![运作流程图.jpg](https://upload-images.jianshu.io/upload_images/9509773-c8072734992b492c.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+
+
+
+
+
 
 
 
